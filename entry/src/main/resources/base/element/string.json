@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "search",
+      "value": "search..."
+    },
+    {
+      "name": "bottom_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "bottom_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "bottom_text_home",
+      "value": "Home"
+    },
+    {
+      "name": "bottom_text_photo",
+      "value": "Photo"
+    }
+  ]
+}
