@@ -9,8 +9,9 @@ In this guide, you will learn how to initialize IAP Kit, request a purchase, han
 # Preview
 
 <div>
-  <img src="screenshots/product1.png" width="24%" >
-  <img src="screenshots/product2.png" width="24%" >
+  <img src="screenshots/buy.png" width="24%" >
+  <img src="screenshots/buy_iap.png" width="24%" >
+  <img src="screenshots/purchase_success.png" width="24%" >
 </div>
 
 # Use Cases
@@ -45,6 +46,8 @@ In this guide, you will learn how to initialize IAP Kit, request a purchase, han
 │
 ├───pages
 │       Index.ets
+│       JwsUtil.ets
+│       PurchaseOrderPayload.ets
 
 ```
 
@@ -63,7 +66,7 @@ In this guide, you will learn how to initialize IAP Kit, request a purchase, han
 
 # License
 
-**HowToCreatePurchase** is distributed under the terms of the MIT License
+**How to create purchase with iap kit** is distributed under the terms of the MIT License
 See the [LICENSE](LICENSE) for more information.
 
 

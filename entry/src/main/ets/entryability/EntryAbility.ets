@@ -4,7 +4,7 @@ import { window } from '@kit.ArkUI';
 
 const domain = 0x0000;
 
-export let globalAbilityContext: common.UIAbilityContext | null = null;
+let globalAbilityContext: common.UIAbilityContext | null = null;
 
 export default class EntryAbility extends UIAbility {
   public onCreate(want: Want, launchParam: AbilityConstant.LaunchParam): void {
